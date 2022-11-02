@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/palikhe_website/static/css/main.915522a7.css",
+    "main.js": "/palikhe_website/static/js/main.1582d5e8.js",
+    "static/js/787.ee35d2d2.chunk.js": "/palikhe_website/static/js/787.ee35d2d2.chunk.js",
+    "static/media/palikhe_01.JPG": "/palikhe_website/static/media/palikhe_01.5c6ac63a2ac2a34ee510.JPG",
+    "static/media/palikhe_03.JPG": "/palikhe_website/static/media/palikhe_03.746da3198c6b2305193f.JPG",
+    "static/media/palikhe_02.jpg": "/palikhe_website/static/media/palikhe_02.fc3f23f4117940918048.jpg",
+    "index.html": "/palikhe_website/index.html",
+    "main.915522a7.css.map": "/palikhe_website/static/css/main.915522a7.css.map",
+    "main.1582d5e8.js.map": "/palikhe_website/static/js/main.1582d5e8.js.map",
+    "787.ee35d2d2.chunk.js.map": "/palikhe_website/static/js/787.ee35d2d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.915522a7.css",
+    "static/js/main.1582d5e8.js"
+  ]
+}
