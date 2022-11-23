@@ -9,8 +9,8 @@ import Slider from "./components/Slider";
 
 function App() {
   const navbarLinks = [
-    { url: "#", title: "Home" },
-    { url: "#", title: "Bangsawali" },
+    { url: "/", title: "Home" },
+    { url: "/bangsawali", title: "Bangsawali" },
   ];
 
   return (

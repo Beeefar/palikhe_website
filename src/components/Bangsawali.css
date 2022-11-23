@@ -1,0 +1,9 @@
+.bangsawali{
+   color: white;
+  font-family: "MonteCarlo", cursive;
+  font-size: 2.5rem;
+}
+body{
+ background: rgb(34,193,195);
+background: radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(224,253,45,1) 100%);
+}
